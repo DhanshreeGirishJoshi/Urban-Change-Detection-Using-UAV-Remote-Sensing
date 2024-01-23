@@ -19,7 +19,7 @@ LINK:https://ijiset.com/vol10/v10s7/IJISET_V10_I7_06.pdf
 
  7.Automating the process of urban change detection using machine learning techniques.
 
- 8. Actively participate and contribute to the project initiatives.
+8. Actively participate and contribute to the project initiatives.
 
 CONCLUSION:It is observed from the change detection study around periphery of urban area near Nagpur city is dynamic to the changes due
 to urbanization of the metro city areas. The percentage change in vegetation classes in the year 2022 has been change from
